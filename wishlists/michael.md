@@ -1,3 +1,5 @@
+[back](../index.md)
+
 # Practical
 
 - [item 1](https://google.com)
