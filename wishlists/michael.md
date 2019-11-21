@@ -1,7 +1,7 @@
 # Practical
 
-- [item 1](google.com)
-- [item 2](amazon.com)
+- [item 1](https://google.com)
+- [item 2](https://amazon.com)
 
 # Fun
 
