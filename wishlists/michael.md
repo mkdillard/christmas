@@ -1,4 +1,6 @@
-# Michael's Wishlist
+---
+title: Michael's Wishlist
+---
 
 [back](../index.md)
 
