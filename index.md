@@ -6,4 +6,4 @@ title: Christmas Wishlists
 
 [Dad](wishlists/dad.md)
 
-[Michael](wishlists/michael.md)s
+[Michael](wishlists/michael.md)
