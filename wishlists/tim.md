@@ -4,6 +4,14 @@ title: Tim's Wishlist
 
 [back](../index.md)
 
-Coming Soon
+Airpods/Bluetooth Headphones
+
+Tc Electronic Tube Pilot Pedal
+
+Money for/to go towards nice work boots
+
+Weather tech rubber floor mats for truck
+
+Bible
 
 ![ChristmasTree](http://www.webweaver.nu/clipart/img/holidays/christmas/animated-christmas-tree.gif)
