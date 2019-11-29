@@ -25,6 +25,6 @@ title: Mike's Wishlist
 
 # Power Tools
 - Benchtop bandsaw [Home Depot](https://www.homedepot.com/p/RYOBI-2-5-Amp-9-in-Band-Saw-BS904G/205503634)
-- Benchtop drill press [Home Depot](homedepot.com/p/RYOBI-10-in-Drill-Press-with-EXACTLINE-Laser-Alignment-System-DP103L/205503636)
+- Benchtop drill press [Home Depot](https://www.homedepot.com/p/RYOBI-10-in-Drill-Press-with-EXACTLINE-Laser-Alignment-System-DP103L/205503636)
 - Benchtop sander combo [Home Depot](https://www.homedepot.com/p/Shop-Fox-2-in-Belt-6-in-Disc-Sander-Benchtop-Combo-W1838/309626482)
 - Contribution towards riding lawn mower.
